@@ -6,6 +6,7 @@
             <p class="grey-text text-darken-3 lighten-3">Android/Frontend/python developer</p>
           </div>
         </div>
+  </div>
     
 <h3 align="center">"O maior inimigo do conhecimento não é a ignorância, é a ilusão do conhecimento."</h3>
 
@@ -33,5 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marconi-costa&show_icons=true&locale=en" alt="marconi-costa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marconi-costa&" alt="marconi-costa" /></p>
-
-  </div>
