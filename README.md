@@ -14,7 +14,7 @@
 
 - 🔭 Atualmente trabalho com desenvolvimento Web e backend [Angular 10](C#)
 
-- 👯 Minha especialidade é desenvolvimento Android **Flutter, Java e kotlin**
+- 👯 Trabalhei mais com desenvolvimento Android **Flutter, Java e kotlin**
 
 - 💬 Pergunte-me sobre **Python, Java, kotlin, flutter,react, angular,c#**
 
