@@ -1,4 +1,16 @@
-<h1 align="center">Olá 👋 sou Marconi Costa</h1>
+  <div class="myProfile">
+        <div class="parallax-container">
+          <div class="parallax"><img src="images/back.jpg"></div>
+        </div>
+
+        <div class="section white center profile">
+          <div class="row container">
+            <img src="images/foto.jpg" title="Marconi Costa - Android/Frontend/python developer" alt="Marconi Costa - Android/Frontend/python developer" />
+            <h2 class="header">Marconi Costa</h2>
+            <p class="grey-text text-darken-3 lighten-3">Android/Frontend/python developer</p>
+          </div>
+        </div>
+      </div>
 <h3 align="center">"O maior inimigo do conhecimento não é a ignorância, é a ilusão do conhecimento."</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marconi-costa" alt="marconi-costa" /></a> </p>
