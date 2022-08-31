@@ -3,7 +3,6 @@
         <div class="section white center profile">
           <div class="row container">
             <img src="foto.jpg" title="Marconi Costa - Android/Frontend/python developer" alt="Marconi Costa - Android/Frontend/python developer" style= "border-radius:50%; width: 150px; heigth: 150px;"/>
-            <h2 class="header">Marconi Costa</h2>
             <p class="grey-text text-darken-3 lighten-3">Android/Frontend/python developer</p>
           </div>
         </div>
