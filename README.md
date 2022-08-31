@@ -1,11 +1,8 @@
   <div class="myProfile">
-        <div class="parallax-container">
-          <div class="parallax"><img src="foto.jpg"></div>
-        </div>
 
         <div class="section white center profile">
           <div class="row container">
-            <img src="images/foto.jpg" title="Marconi Costa - Android/Frontend/python developer" alt="Marconi Costa - Android/Frontend/python developer" />
+            <img src="foto.jpg" title="Marconi Costa - Android/Frontend/python developer" alt="Marconi Costa - Android/Frontend/python developer" />
             <h2 class="header">Marconi Costa</h2>
             <p class="grey-text text-darken-3 lighten-3">Android/Frontend/python developer</p>
           </div>
