@@ -6,7 +6,7 @@
             <p class="grey-text text-darken-3 lighten-3">Android/Frontend/python developer</p>
           </div>
         </div>
-      </div>
+    
 <h3 align="center">"O maior inimigo do conhecimento não é a ignorância, é a ilusão do conhecimento."</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marconi-costa" alt="marconi-costa" /></a> </p>
@@ -15,11 +15,9 @@
 
 - 👯 Minha especialidade é desenvolvimento Android **Flutter, Java e kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/marconi-costa](https://github.com/marconi-costa)
-
 - 💬 Pergunte-me sobre **Python, Java, kotlin, flutter,react, angular,c#**
 
-- 📫 How to reach me **marconi.c.s.j@gmail.com**
+- 📫 meu email **marconi.c.s.j@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,3 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marconi-costa&" alt="marconi-costa" /></p>
 
+  </div>
