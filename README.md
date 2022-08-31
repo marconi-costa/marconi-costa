@@ -1,6 +1,6 @@
   <div class="myProfile">
         <div class="parallax-container">
-          <div class="parallax"><img src="images/back.jpg"></div>
+          <div class="parallax"><img src="foto.jpg"></div>
         </div>
 
         <div class="section white center profile">
